@@ -1,4 +1,3 @@
-# Inventory-Tracking-System
 # Inventory Tracking System
 
 ## 📋 Project Description
